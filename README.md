@@ -1,7 +1,3 @@
-=== Bunny Stream Video Uploader ===
-Contributors: subhendux
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 # Bunny Stream Video Uploader
 
@@ -39,6 +35,9 @@ The Bunny Stream Video Uploader plugin allows you to upload videos directly to B
 
 SubhenduX
 
-## License
+== License ==
+This plugin is licensed under the GPLv2 (or later).
 
-This plugin is licensed under the GPLv2 or later.
+== License URI ==
+http://www.gnu.org/licenses/gpl-2.0.html
+
