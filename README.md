@@ -36,4 +36,4 @@ SubhenduX
 
 ## License
 
-This plugin is licensed under the MIT License.
+This plugin is licensed under the GPLv2 or later.
