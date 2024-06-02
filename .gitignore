@@ -1,0 +1,6 @@
+# Ignore WordPress directories
+/wp-content/
+/wp-includes/
+
+/* Secret Files */
+secret-settings.php
