@@ -1,3 +1,8 @@
+=== Bunny Stream Video Uploader ===
+Contributors: subhendux
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 # Bunny Stream Video Uploader
 
 A WordPress plugin to upload videos to Bunny Stream via direct file upload or URL.
